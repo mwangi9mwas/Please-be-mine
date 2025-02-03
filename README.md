@@ -40,7 +40,7 @@
     </style>
 </head>
 <body>
-    <h1>For the last one year we've been talking, I've had the time of my life. 💖<br>Every smile, every laugh, every moment with you feels like a blessing.<br>Will you make me the happiest person by being my girlfriend? 💫💕</h1>
+    <h1>If someone asked me to define love, I might stumble over the words, but one thing I know for sure is that what we have is real, pure, and absolutely magical ✨❤️.<br>Every moment with you feels like a beautiful story unfolding, and I wouldn’t trade it for anything.<br>So, here’s the much-anticipated question... will you make me the happiest man alive by being my girlfriend? 🥰💍💕</h1>
     <button id="yes">Yes</button>
     <button id="no">No</button>
 
