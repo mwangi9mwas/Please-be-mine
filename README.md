@@ -56,11 +56,17 @@
 
         yesButton.addEventListener("click", function() {
             confetti({
-                particleCount: 200,
-                spread: 100,
+                particleCount: 500,
+                spread: 150,
                 origin: { y: 0.6 }
             });
             alert("Now I'm yours for life ❤️");
+        });
+    </script>
+<button id="spotify-link" style="display: none;">Listen on Spotify</button>
+    <script>
+        yesButton.addEventListener("click", function() {
+            window.open('https://open.spotify.com/track/7wfDCDfhVe2tFxIkQEJp35', '_blank');
         });
     </script>
 </body>
